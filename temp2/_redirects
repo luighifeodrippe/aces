@@ -1,4 +1,0 @@
-# http and https need separate rules if you don’t force_ssl!
-https://universointeligente.netlify.app/* https://www.nesseuniverso.com/:splat 301!
-https://universointeligente.netlify.app/* http://nesseuniverso.com/:splat 301!
-https://universointeligente.netlify.app/* www.nesseuniverso.com/:splat 301!
