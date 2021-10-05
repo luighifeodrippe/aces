@@ -4,7 +4,7 @@ exports.handler = async event => {
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: 'https://www.nesseuniverso.com/'
+        location: 'https://www.nesseuniverso.com/o-grande-tubarao-branco-foge-na-presenca-deste-superpredador-dos-oceanos/'
       }
     }
   } else {
